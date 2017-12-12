@@ -1,5 +1,5 @@
 {
-    "architecture": "CORTEX_M4F", 
+    "architecture": "CORTEX_M4L",
     "asm_flags": "-fno-exceptions -fno-unwind-tables", 
     "c_flags": "-std=c99 -Warray-bounds", 
     "cmake_definitions": {
@@ -34,15 +34,15 @@
     "generate_hex": true, 
     "libraries": [
         {
-            "branch": "d7270e90d0b910f803c8d87024d5696bca9ffd41", 
-            "name": "codal-core", 
-            "type": "git", 
+            "branch": "d7270e90d0b910f803c8d87024d5696bca9ffd41",
+            "name": "codal-core",
+            "type": "git",
             "url": "https://github.com/lancaster-university/codal-core"
-        }, 
+        },
         {
-            "branch": "574699d26ebe1ce8da88cdd3b0c4e806739c1571", 
-            "name": "codal-mbedos", 
-            "type": "git", 
+            "branch": "574699d26ebe1ce8da88cdd3b0c4e806739c1571",
+            "name": "codal-mbedos",
+            "type": "git",
             "url": "https://github.com/lancaster-university/codal-mbedos"
         }
     ], 
