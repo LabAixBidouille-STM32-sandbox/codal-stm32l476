@@ -15,4 +15,3 @@ Makefile
 *.bin
 pxtapp
 buildcache.json
-codal.json
