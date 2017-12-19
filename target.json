@@ -39,13 +39,13 @@
     "libraries":[
         {
             "name":"codal-core",
-            "url":"https://github.com/LabAixBidouille-STM32/codal-core",
+            "url":"file:///home/paul/work/development/dev-pxt/iSource/codal-core",
             "branch":"feature/testPXT",
             "type":"git"
         },
         {
             "name":"codal-mbedos",
-            "url":"https://github.com/LabAixBidouille-STM32/codal-mbedos",
+            "url":"file:///home/paul/work/development/dev-pxt/iSource/codal-mbedos",
             "branch":"feature/testPXT",
             "type":"git"
         }
